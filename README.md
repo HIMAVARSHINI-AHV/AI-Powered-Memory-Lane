@@ -71,8 +71,8 @@ Memory Lane is a comprehensive web application designed to help manage and monit
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Jlasi17/memory-lane.git
-cd memorey-lane/memoweb
+git clone https://github.com/HIMAVARSHINI-AHV/AI-Powered-Memory-Lane.git
+cd AI-Powered-Memory-Lane/memoweb
 ```
 
 2. Install frontend dependencies:
